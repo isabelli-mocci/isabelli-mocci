@@ -38,8 +38,8 @@
 
 <h2 align="center">📊 Minhas estatísticas no GitHub</h2>
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=isabelli-mocci&show_icons=true&theme=tokyonight" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelli-mocci&layout=compact&theme=tokyonight" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=isabelli-mocci&show_icons=true&theme=tokyonight" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelli-mocci&layout=compact&theme=tokyonight" />
 </div>
 
 ---
