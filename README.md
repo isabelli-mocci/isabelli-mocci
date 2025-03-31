@@ -14,7 +14,7 @@
 
 ---
 
-## 🧠 Minhas Skills
+## 🧠 My Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,sass,git&theme=light&titles=true"/>
