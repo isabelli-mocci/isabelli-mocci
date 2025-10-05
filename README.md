@@ -30,7 +30,7 @@ I want to create interfaces that slide, snap, and transform — not just beautif
 
 <h2>🌎 Find me around the web:</h2>
     
-[![Email](https://img.shields.io/badge/Email-adff2f?style=for-the-badge&color=adff2f&labelColor=adff2f&logoColor=000000)](mailto:seu-email@exemplo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-adff2f?style=for-the-badge&color=adff2f&labelColor=adff2f&logoColor=000000)](https://www.linkedin.com/in/seu-perfil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-adff2f?style=for-the-badge&color=adff2f&labelColor=adff2f&logoColor=000000)](https://seu-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-adff2f?style=for-the-badge&color=adff2f&labelColor=adff2f&logoColor=000000)](mailto:isabellimocci.tech@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adff2f?style=for-the-badge&color=adff2f&labelColor=adff2f&logoColor=000000)](https://www.linkedin.com/in/isabelli-mocci)
+[![Portfolio](https://img.shields.io/badge/Portfolio-adff2f?style=for-the-badge&color=adff2f&labelColor=adff2f&logoColor=000000)](https://isabellimocci.com)
 
