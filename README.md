@@ -10,7 +10,7 @@
 Motion. <br>
 Intentional animation. <br>
 High-performance interaction. <br><br>
-I want to create interfaces that slide, snap, and transform — not just beautiful websites, but premium digital experiences that spark praise.</p>
+I want to create interfaces that slide, snap, and transform — not just beautiful websites, but immersive experiences that feel alive.</p>
 
 ---
 
