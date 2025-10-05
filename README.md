@@ -1,48 +1,36 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7e55bc18-9eb9-4412-8667-449838376c36" alt="Banner - Github"/>
+  <img src="https://github.com/user-attachments/assets/a036ea43-c60c-47c0-8da2-34fed2c3e22c" alt="Banner of Isabelli in Github"/>
 </p>
 
 ---
 
-<h1 align="center">Hi, I'm Isa! 💖</h1>
+<h2 align="left">Hey, my name is ⟶  Isa! 💚 I'm a frontend developer from Brazil.</h2>
 
-<h3 align="center">Front-end developer & illustrator bringing magic to the digital world 🌈✨</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23ff66b2&size=18&center=true&vCenter=true&lines=Front-end+Developer;Illustrator+%26+Creative+Mind;Always+learning+new+things!"/>
-</p>
-
----
-
-## 🧠 My Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,sass,git&theme=light&titles=true"/>
-</p>
+<p align="justify"> I'm studying to master: <br><br>
+Motion. <br>
+Intentional animation. <br>
+High-performance interaction. <br><br>
+I want to create interfaces that slide, snap, and transform — not just beautiful websites, but premium digital experiences that spark praise.</p>
 
 ---
 
-<details>
-  <summary><h2 align="center">⚡GitHub Stats (click to expand)</h2></summary>
+<h2 align="left">✳️ My Skills</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,vite,git,github,figma)](https://skillicons.dev)
+
+---
+  
+<h2 align="left">⚡GitHub Stats</h2>
   <p align="center">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isabelli-mocci&show_icons=true&theme=rose&hide_border=false"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelli-mocci&layout=compact&theme=rose&hide_border=false"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isabelli-mocci&show_icons=true&theme=merko&hide_border=false"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelli-mocci&layout=compact&theme=merko&hide_border=false"/>
   </p>
-</details>
 
 ---
 
-## 💌 Wanna have chat with me?
-<p align="left">
-  <a href="https://www.linkedin.com/in/isabelli-mocci/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-ffb3cc?style=for-the-badge" />
-  </a>
-  <a href="https://seu-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-ffb3cc?style=for-the-badge" />
-  </a>
-  <a href="mailto:isabelli@example.com">
-    <img src="https://img.shields.io/badge/-Email-ffb3cc?style=for-the-badge" />
-  </a>
-</p>
+<h2>🌎 Find me around the web:</h2>
+    
+[![Email](https://img.shields.io/badge/Email-adff2f?style=for-the-badge&color=adff2f&labelColor=adff2f&logoColor=000000)](mailto:seu-email@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adff2f?style=for-the-badge&color=adff2f&labelColor=adff2f&logoColor=000000)](https://www.linkedin.com/in/seu-perfil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-adff2f?style=for-the-badge&color=adff2f&labelColor=adff2f&logoColor=000000)](https://seu-portfolio.com)
 
----
