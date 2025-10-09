@@ -8,16 +8,16 @@ Seção de banner, apresentação, skills, estatísticas do GitHub e links de co
 </p>
 
 <!-- Seção de apresentação pessoal -->
-<h2 align="left">Hey, my name is ⟶  Isa! 💚 I'm a frontend developer from Brazil.</h2>
+<h2 align="center">Hey, my name is ⟶  Isa! 💚 I'm a frontend developer from Brazil.</h2>
 
 <p align="justify">
-Sou uma <strong>Frontend Developer</strong> focada em criar experiências web imersivas usando
-<strong>React, Next.js e Framer Motion</strong>. Acredito que um site bem feito encanta como um
-trailer de cinema: prende o olhar, desperta curiosidade e faz o usuário querer explorar cada 
-detalhe da interface.
-Como desenvolvedora, quero construir interfaces que, além de funcionais, sejam inesquecíveis. 
-Atualmente estudo tecnologias focadas em <strong>performance e motion</strong>, com o objetivo 
-de me especializar em <strong>GSAP e interações de alto desempenho</strong>.
+I am a <strong>Frontend Developer</strong> focused on creating immersive web experiences using
+<strong>React, Next.js, and Framer Motion</strong>. I believe a well-crafted website captivates like a
+movie trailer: it grabs attention, sparks curiosity, and makes the user want to explore every
+detail of the interface.
+As a developer, I aim to build interfaces that are not only functional but unforgettable.
+I am currently studying technologies focused on <strong>performance and motion</strong>, with the goal
+of specializing in <strong>GSAP and high-performance interactions</strong>.
 </p>
 
 <!-- ==========================
@@ -26,7 +26,11 @@ Inclui ícones das principais habilidades e tecnologias
 ========================== -->
 <h2 align="left">✳️ My Skills</h2>
 
+<div align="center">
+  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,vite,git,github,figma)](https://skillicons.dev)
+
+</div>
 
 <!-- ==========================
 Seção GitHub Stats
