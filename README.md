@@ -4,7 +4,7 @@ Seção de banner, apresentação, skills, estatísticas do GitHub e links de co
 ========================== -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e85d38e0-9a57-4482-989c-a12b98cd4faf" alt="Banner of Isabelli in Github"/>
+  <img src="https://github.com/user-attachments/assets/331618e9-be82-44b2-9a53-324071b26733" alt="Banner of Isabelli Mocci in Github"/>
 </p>
 
 <!-- Seção de apresentação pessoal -->
