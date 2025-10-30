@@ -4,7 +4,9 @@ Seção de banner, apresentação, skills, estatísticas do GitHub e links de co
 ========================== -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/331618e9-be82-44b2-9a53-324071b26733" alt="Banner of Isabelli Mocci in Github"/>
+  
+  [![Banner Isabelli Mocci](https://github.com/user-attachments/assets/331618e9-be82-44b2-9a53-324071b26733)](https://www.isabellimocci.com)
+
 </p>
 
 <!-- Seção de apresentação pessoal -->
@@ -23,12 +25,13 @@ of specializing in <strong>GSAP and high-performance interactions</strong>.
 <!-- ==========================
 Seção Skills
 Inclui ícones das principais habilidades e tecnologias
+(icons usados: SkillsIcons
 ========================== -->
 <h2 align="left">✳️ My Skills</h2>
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,vite,git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,nestjs,vitest,vite,git,vercel,figma)](https://www.isabellimocci.com)
 
 </div>
 
