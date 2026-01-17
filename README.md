@@ -41,9 +41,14 @@ Inclui contribuições e linguagens mais usadas
 ========================== -->
 <h2 align="left">⚡GitHub Stats</h2>
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isabelli-mocci&show_icons=true&theme=merko&hide_border=false"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelli-mocci&layout=compact&theme=merko&hide_border=false"/>
+  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isabelli-mocci&theme=merko"/>
+  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=isabelli-mocci&theme=merko"/>
+  <img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isabelli-mocci&theme=merko"/>
 </p>
+
+## ⚡GitHub Stats
+
+
 
 <!-- ==========================
 Seção de Contato e Redes
